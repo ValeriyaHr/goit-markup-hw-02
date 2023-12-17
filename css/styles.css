@@ -25,6 +25,9 @@ ul {
 .li-studio a {
     color: #2e2f42 ;
 }
+.li-studio-a{
+    color: #2e2f42 ;
+}
 /* .li-header {
     color: #2e2f42;
 } */
@@ -120,6 +123,7 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
 
 .footer-section {
     color: #8e8f99;
+    background-color:#2E2F42;
 }
 
 .h1-main {
