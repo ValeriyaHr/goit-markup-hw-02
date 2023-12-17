@@ -22,7 +22,9 @@ ul {
 .li-section {
     background-color:#FFFFFF;
 }
-
+.li-studio a {
+    color: #2e2f42 ;
+}
 /* .li-header {
     color: #2e2f42;
 } */
