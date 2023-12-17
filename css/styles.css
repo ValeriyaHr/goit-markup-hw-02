@@ -126,26 +126,16 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
     font-size: 20px;
     line-height: 1.2;
 }
-.section-portfolio h2{
+
+.h2-main {
     font-weight: 400;
     font-size: 36px;
     line-height: 1.11;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+    color: #2e2f42;
 }
-/* .h2-main {
-    font-weight: 400;
-    font-size: 36px;
-    line-height: 1.11;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-} */
 
 .p-text {
     font-weight: 400;
