@@ -1,5 +1,5 @@
-.body {
-    font-family:'roboto' sans-serif;
+body {
+    font-family: "Roboto", sans-serif;
     font-style: normal;
     color: #434455;
     background-color: #ffffff;
@@ -11,36 +11,72 @@ a {
 
 .ul-section{
     list-style-type: none;
+    background-color: #FFFFFF;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
 .logo {
     font-family: 'Raleway', sans-serif;
-
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     font-weight: 700;
     text-transform: uppercase;
     font-size: 18px;
+    color: #4d5ae5;
 }
-
 
 .nav-tittle {
     font-size: 16px;
     font-weight: 500;
-    line-height: 1.31;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 
-.logo-web {
-    color: #4D5AE5;
+a.nav-tittle:hover, a.nav-tittle:active, a.nav-tittle:focus {
+    color: #404bbf;
 }
 
-.address-tittle {
+address{
+    font-style: normal
+}
+
+.adress-info {
     font-size: 16px;
-    font-weight: 400;
-    line-height: 1.31;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
+    color: #404bbf;
+}
+
+.logo-studio{
+    color: #2e2f42;
 }
 
 .section-tittle {
-    color: #8E8F99;
+    color: #ffffff;
     background-color: #2E2F42;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em
+}
+
+.main-button {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;    
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+a.main-button:hover, a.main-button:active, a.main-button:focus {
+    background-color: #404BBF;
 }
 
 .section-principles {
@@ -49,9 +85,9 @@ a {
 }
 
 .section-team {
+    background-color: #F4F4FD;
     font-weight: 500;
     color: #8E8F99;
-    background-color: #e7e9fc;
 }
 
 .section-portfolio {
@@ -70,20 +106,6 @@ a {
     font-size: 56px;
 }
 
-.main-button {
-    background-color: #4D5AE5;
-    color: #ffffff;
-    border: none;
-    padding: 10px 20px;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: 16px;
-    font-weight: 500;
-    margin: 4px 2px;
-    cursor: pointer;
-}
-
 .h3-main {
     font-weight: 500;
     font-size: 20px;
@@ -92,12 +114,19 @@ a {
 
 .h2-main {
     font-weight: 400;
-    font-size: 20px;
-    line-height: 1.2;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .p-text {
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.31;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
