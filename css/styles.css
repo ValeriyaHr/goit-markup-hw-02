@@ -110,7 +110,7 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
     color: #8E8F99;
 }
 
-.footer1 {
+.footer-section {
     background-color: #2E2F42;
     color: #8e8f99;
 }
@@ -126,8 +126,7 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
     font-size: 20px;
     line-height: 1.2;
 }
-
-.h2-main {
+.section-portfolio h2{
     font-weight: 400;
     font-size: 36px;
     line-height: 1.11;
@@ -137,6 +136,16 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
+/* .h2-main {
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+} */
 
 .p-text {
     font-weight: 400;
@@ -148,6 +157,8 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
 
 .p-footer-text {
     color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .logo-studio-fooler {
