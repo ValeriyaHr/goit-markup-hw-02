@@ -58,7 +58,7 @@ a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
 }
 
 .logo-studio{
-    color: #f4f4fd;
+    color: #434455;
 }
 
 .section-tittle {
@@ -77,6 +77,7 @@ a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    background-color: #404BBF;
 }
 
 a.main-button:hover, a.main-button:active, a.main-button:focus {
@@ -137,4 +138,8 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
 
 .p-footer-text {
     color: #F4F4FD;
+}
+
+.logo-studio-fooler {
+    color: #f4f4fd;
 }
