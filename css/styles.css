@@ -23,11 +23,9 @@ ul {
     background-color:#FFFFFF;
 }
 .li-studio a {
-    color: #2e2f42 ;
+    color: #2e2f42;
 }
-.li-studio-a{
-    color: #2e2f42 ;
-}
+
 /* .li-header {
     color: #2e2f42;
 } */
@@ -59,7 +57,7 @@ color: #434455 ;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455;
 }
 
 a.nav-tittle:hover, a.nav-tittle:active, a.nav-tittle:focus {
