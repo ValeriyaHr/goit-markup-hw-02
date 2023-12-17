@@ -16,6 +16,10 @@ a {
     color: #2e2f42;
 }
 
+.li-section {
+    background-color:#FFFFFF;
+}
+
 .logo {
     font-family: 'Raleway', sans-serif;
     line-height: 1.17;
@@ -54,7 +58,7 @@ a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
 }
 
 .logo-studio{
-    color: #2e2f42;
+    color: #f4f4fd;
 }
 
 .section-tittle {
@@ -128,5 +132,5 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
+    color: #F4F4FD;
 }
