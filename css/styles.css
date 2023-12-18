@@ -98,7 +98,7 @@ a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
     background-color: #4d5ae5;
 }
 
-a.main-button:hover, a.main-button:active, a.main-button:focus {
+.main-button:hover, .main-button:active, .main-button:focus {
     background-color: #404BBF;
 }
 
