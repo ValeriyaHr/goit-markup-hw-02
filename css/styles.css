@@ -23,7 +23,7 @@ ul {
     background-color:#FFFFFF;
 }
 .li-studio{
-    color: #2e2f42;
+    
 }
 
 /* .li-header {
@@ -73,7 +73,6 @@ address{
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
@@ -96,7 +95,7 @@ a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
-    background-color: #404BBF;
+    background-color: #4d5ae5;
 }
 
 a.main-button:hover, a.main-button:active, a.main-button:focus {
