@@ -61,10 +61,10 @@ color: #434455 ;
     /* color: #2e2f42; */
 }
 
-a.nav-tittle:hover, a.nav-tittle:active, a.nav-tittle:focus {
+/* a.nav-tittle:hover, a.nav-tittle:active, a.nav-tittle:focus {
     color: #404bbf;
-}
-
+} */
+  
 address{
     font-style: normal;
 }
