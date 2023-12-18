@@ -30,7 +30,9 @@ ul {
 .li-studio-a {
     color: #2e2f42;
 }
-
+a.li-studio-a:hover, a.li-studio-a:active, a.li-studio-a:focus {
+    color: #404bbf;
+} 
 /* .li-header {
     color: #2e2f42;
 } */
