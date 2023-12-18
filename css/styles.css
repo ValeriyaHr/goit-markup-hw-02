@@ -27,15 +27,19 @@ ul {
     color: #2e2f42;
 }
 
+.li-studio-a {
+    color: #2e2f42;
+}
+
 /* .li-header {
     color: #2e2f42;
 } */
 /* .ul-section a{
     color: #404bbf;
 } */
-/* a.li-header:hover, a.li-header:active, a.li-header:focus {
+a.li-header:hover, a.li-header:active, a.li-header:focus {
     color: #404bbf;
-} */
+} 
 .logo {
     font-family: 'Raleway', sans-serif;
     line-height: 1.17;
