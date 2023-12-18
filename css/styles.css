@@ -123,19 +123,19 @@ a.main-button:hover, a.main-button:active, a.main-button:focus {
     background-color:#2E2F42;
 }
 
-.h1-main {
+.h-main {
     color: #ffffff;
     font-weight: 700;
     font-size: 56px;
 }
 
-.h3-main {
+.h-main-free {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
 }
 
-.h2-main {
+.h-main-two {
     font-weight: 400;
     font-size: 36px;
     line-height: 1.11;
