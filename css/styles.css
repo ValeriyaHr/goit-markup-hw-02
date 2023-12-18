@@ -33,12 +33,7 @@ ul {
 a.li-studio-a:hover, a.li-studio-a:active, a.li-studio-a:focus {
     color: #404bbf;
 } 
-/* .li-header {
-    color: #2e2f42;
-} */
-/* .ul-section a{
-    color: #404bbf;
-} */
+
 a.li-header:hover, a.li-header:active, a.li-header:focus {
     color: #404bbf;
 } 
@@ -67,12 +62,9 @@ color: #434455 ;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    /* color: #2e2f42; */
+ 
 }
 
-/* a.nav-tittle:hover, a.nav-tittle:active, a.nav-tittle:focus {
-    color: #404bbf;
-} */
   
 address{
     font-style: normal;
@@ -89,7 +81,7 @@ address{
 a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
     color: #404bbf;
 }
-
+/* section  */
 .section-tittle {
     color: #ffffff;
     background-color: #2E2F42;
@@ -128,7 +120,7 @@ a.adress-info:hover, a.adress-info:active, a.adress-info:focus {
     font-weight: 500;
     color: #8E8F99;
 }
-
+/* footer */
 .footer-section {
     color: #8e8f99;
     background-color:#2E2F42;
